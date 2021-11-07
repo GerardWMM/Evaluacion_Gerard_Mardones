@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Biblioteca Santo Tomas</string>
+
+    <string name="btn_Registrar">Registrar</string>
+    <string name="btn_Actualizar">Modificar</string>
+
+    <!--Strings para las opciones del menu-->
+    <string name="menu_op1">Crear Registro</string>
+    <string name="menu_op2">Listar Registros</string>
+
+    <!--String para la activity main-->
+    <string name="title_main">¡Bienvenido encargad@!</string>
+    <string name="crear_main">Registrar datos</string>
+    <string name="ver_main">Ver datos</string>
+    <string name="option_main">Para hacer un nuevo registros presiona el boton "Registrar datos",
+    para ver los registros presiona el boton "Ver datos"</string>
+
+    <!--String para pantalla de crear registros-->
+    <string name="crear_title">¿Qué deseas registrar?</string>
+    <string name="crear_op1">Registrar Libro</string>
+    <string name="crear_op2">Registrar Autor</string>
+    <string name="crear_op3">Registrar Estanteria</string>
+    <string name="crear_op4">Registrar Editorial</string>
+    <string name="crear_info">Presiona un boton para registrar un libro, autor, estanteria o
+    una editorial.</string>
+
+    <!--String para pantalla de listar registros-->
+    <string name="listar_title">¿Qué registros deseas mirar?</string>
+    <string name="listar_op1">Ver Libros</string>
+    <string name="listar_op2">Ver Autores</string>
+    <string name="listar_op3">Ver Estanterias</string>
+    <string name="listar_op4">Ver Editoriales</string>
+    <string name="listar_info">Al presionar un boton tendras la opcion de ver todos los
+    registros, ademas, podras eliminar o modificar un registro especifico.</string>
+
+    <!--String Formulario de Autores-->
+    <string name="formAutorTitle">Registrar un nuevo autor</string>
+    <string name="formAutor_txt1">Nombres del Autor</string>
+    <string name="formAutor_txt2">Apellidos del Autor</string>
+    <string name="formAutor_txt3">Nacionalidad del Autor</string>
+
+    <!--String Formulario de Estanterias-->
+    <string name="formEstanTitle">Registrar una nueva estanteria</string>
+    <string name="formEstant_txt1">Letra de la estanteria</string>
+    <string name="formEstant_txt2">Numero de la estanteria</string>
+    <string name="formEstnat_txt3">Color de la estanteria</string>
+
+    <!--String Formulario de Editoriales-->
+    <string name="formEditorialTitle">Registrar una nueva editorial</string>
+    <string name="formEditorial_txt1">Nombre de la editorial</string>
+    <string name="formEditorial_txt2">Nacionalidad de la editorial</string>
+
+    <!--String Formulario de Libros-->
+    <string name="formLibro_txt1">Titulo del libro</string>
+    <string name="formLibro_txt2">Descripcion del libro</string>
+    <string name="formLibro_txt3">Fecha de publicacion</string>
+    <string name="formLibro_txt4">Copias</string>
+    <string name="formLibro_txt5">Cantidad de paginas</string>
+    <string name="formLibro_txt6">Autor:</string>
+    <string name="formLibro_txt7">Editorial:</string>
+    <string name="formLibro_txt8">Ubicacion fisica:</string>
+
+    <!--String para pantalla de registros-->
+    <string name="listado_autor">Autores registrados:</string>
+    <string name="listado_editorial">Editoriales registradas:</string>
+    <string name="listado_estanterias">Estanterias registradas:</string>
+    <string name="listado_libros">Libros registrados:</string>
+    <string name="listado_acciones">Toca un registro para modificarlo o manten presionado
+    para eliminarlo.</string>
+    <string name="listado_op1">Filtrar por autor:</string>
+    <string name="listado_op2">Filtrar por editorial:</string>
+    <string name="listado_op3">Filtrar por nombre de libro:</string>
+
+    <!--String para la pantalla de editar datos-->
+    <string name="editar_autor">Modificar datos del autor.</string>
+    <string name="editar_editorial">Modificar datos de la editorial.</string>
+    <string name="editar_estanteria">Modificar datos de la estanteria.</string>
+    <string name="editar_libro">Modificar datos del libro.</string>
+
+</resources>
